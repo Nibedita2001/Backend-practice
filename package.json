@@ -1,0 +1,19 @@
+{
+  "name": "backend-all",
+  "version": "1.0.0",
+  "description": "a app for backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Nibedita Kerketta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
